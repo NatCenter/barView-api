@@ -1,0 +1,339 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jacob",
+      "email": "jacob@aol.com"
+    },
+    {
+      "email": "nathanjcenter@gmail.com",
+      "name": "Nathan",
+      "id": 2
+    },
+    {
+      "email": "jenna@solis.com",
+      "name": "Jeen",
+      "id": 3
+    },
+    {
+      "email": "rob@aol.com",
+      "name": "Rob",
+      "id": 4
+    },
+    {
+      "email": "joe@joe.com",
+      "name": "Joe",
+      "id": 5
+    },
+    {
+      "email": "nate@gmail.com",
+      "name": "Nate",
+      "id": 6
+    },
+    {
+      "email": "larray@aol.com",
+      "name": "Larry",
+      "id": 7
+    }
+  ],
+  "bars": [
+    {
+      "id": 1,
+      "barName": "Bar Sovereign",
+      "address": " 514 Rep. John Lewis Way S, Nashville, TN 37203",
+      "liveMusic": true,
+      "maskRequired": false,
+      "socialDistancing": true,
+      "staffMask": true,
+      "vaccineCard": true
+    },
+    {
+      "id": 2,
+      "barName": "Bar Louie - Nashville",
+      "address": " 314 11th Ave S, Nashville, TN 37203",
+      "liveMusic": true,
+      "maskRequired": false,
+      "socialDistancing": true,
+      "staffMask": true,
+      "vaccineCard": true
+    },
+    {
+      "id": 3,
+      "barName": "Gertie's Whiskey Bar: Nashville, Tennessee",
+      "address": "507 12th Ave S Fl 1, Nashville, TN 37203",
+      "liveMusic": true,
+      "maskRequired": true,
+      "socialDistancing": true,
+      "staffMask": false,
+      "vaccineCard": true
+    },
+    {
+      "id": 4,
+      "barName": "Hops & Crafts",
+      "address": "319 12th Ave S, Nashville, TN 37203",
+      "liveMusic": true,
+      "maskRequired": true,
+      "socialDistancing": true,
+      "staffMask": true,
+      "vaccineCard": false
+    },
+    {
+      "id": 5,
+      "barName": "Famous Nashville",
+      "address": "110 2nd Ave N, Nashville, TN 37201",
+      "liveMusic": true,
+      "maskRequired": false,
+      "socialDistancing": true,
+      "staffMask": true,
+      "vaccineCard": true
+    }
+  ],
+  "imageBars": [
+    {
+      "id": 1,
+      "barId": 1,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipNUf28mfcW6iZD0qjwJK6_QccUeAuV3jAwER2DT=s451-k-no"
+    },
+    {
+      "id": 2,
+      "barId": 1,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipNHh8rqmJhvGtYR1uVvIm_XU7U-ZCd7nTDiQsCW=s451-k-no"
+    },
+    {
+      "id": 3,
+      "barId": 1,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipM_4852giHdaWZ8eT2fnHf0SFbm53JbX-UL1RIr=w203-h152-k-no"
+    },
+    {
+      "id": 4,
+      "barId": 1,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipM2nWwcRg07IHoXGBHfkMQLOGGajGVx2iyAF_RS=w203-h135-k-no"
+    },
+    {
+      "id": 5,
+      "barId": 2,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipP-BOVmpLtvfI7N2mH9jf6BP_AeCAMieBgWs_oB=w203-h152-k-no"
+    },
+    {
+      "id": 5,
+      "barId": 2,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipPZ7vtphdC2eypKPL5Epiw7RLDyHpNuI4V3weCK=s406-k-no"
+    },
+    {
+      "id": 6,
+      "barId": 2,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipP2h2dOxbiHzdOs83DZe0341-wArCsWeuUqI5xx=s406-k-no"
+    },
+    {
+      "id": 7,
+      "barId": 2,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipNHKaO_9QMzsFWLl3OC8VFKmle5dQcEnJ38S2fF=s677-k-no"
+    },
+    {
+      "id": 8,
+      "barId": 3,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipMOUFThV4Gw9tn18VAO9sEfwIOlCl3iqQIjww12=w203-h135-k-no"
+    },
+    {
+      "id": 9,
+      "barId": 3,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipOOtfIQ767nttCiLLowX0J-HWTDHESeH3RWB6GF=w203-h232-k-no"
+    },
+    {
+      "id": 10,
+      "barId": 3,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipOsLX_ArVMvLNuEzrnQVSJGKqV0D7ovxPf33iHQ=s451-k-no"
+    },
+    {
+      "id": 11,
+      "barId": 3,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipN_-YALRHmamretPtL33T6p_ogRgMRG_kJuyitO=s508-k-no"
+    },
+    {
+      "id": 12,
+      "barId": 4,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipOpiUSzmB79KetkO9k3_stRGKy4uewZcyNXFBn9=w408-h306-k-no"
+    },
+    {
+      "id": 13,
+      "barId": 4,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipO6TlgMWDmRQubCb7LuwJ7W2302I7bckoJwXS_0=s406-k-no"
+    },
+    {
+      "id": 14,
+      "barId": 4,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipNlK0jxK_Raaf2ksNNGfenV2syrUbbOBlvz9UzH=s508-k-no"
+    },
+    {
+      "id": 14,
+      "barId": 4,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipPGcBCBXIQ9SwbDl3LttwQz57WQjy3X1I2GXi8J=w203-h270-k-no"
+    },
+    {
+      "id": 15,
+      "barId": 5,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipMu5qMr8KoSCqh5i9J35L8zxbGP0WgWeV6JAONJ=s451-k-no"
+    },
+    {
+      "id": 16,
+      "barId": 5,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipMVKx0-xwknIFrPDtxGDmyQ-IBtZF2AXvXvgI95=s435-k-no"
+    },
+    {
+      "id": 17,
+      "barId": 5,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipOPsRd3_9OzNhgBQANZRDQOoVZfOXEtZfqhydAy=s435-k-no"
+    },
+    {
+      "id": 18,
+      "barId": 5,
+      "imageURL": "https://lh5.googleusercontent.com/p/AF1QipPbZ-o2pLWhdTzPUvTqBIJE-JVVfMccWi_lyizJ=s516-k-no"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "barId": 1,
+      "userImageReview": "https://lh5.googleusercontent.com/p/AF1QipMh1IDMDnSrmUWSYpLxKC0NVwnp27WaSbqG39fM=w203-h270-k-no",
+      "userId": 1,
+      "star": 5,
+      "reviewDes": "This is a great bar. The food was great! The drinks are fantastic! As well the staff was so nice and kind"
+    },
+    {
+      "id": 2,
+      "barId": 2,
+      "userId": 6,
+      "star": 3,
+      "userImageReview": "",
+      "reviewDes": "This is an ok bar the food was ok."
+    },
+    {
+      "id": 4,
+      "barId": 2,
+      "userId": 2,
+      "star": 1,
+      "userImageReview": "",
+      "reviewDes": "This is so so "
+    },
+    {
+      "reviewDes": "This is a not so great bar",
+      "barId": 4,
+      "star": 1,
+      "userId": 1,
+      "userImageReview": "",
+      "id": 7
+    },
+    {
+      "reviewDes": "This bar is a great place to be at",
+      "barId": 2,
+      "star": 5,
+      "userImageReview": "https://lh5.googleusercontent.com/p/AF1QipN2r_ntycE_FIJNZ_ckRDsIaukKIbaoK4ip0YBP=s597-k-no",
+      "userId": 3,
+      "id": 9
+    },
+    {
+      "reviewDes": "This is a sweet bar ",
+      "barId": 2,
+      "star": 4,
+      "userImageReview": "",
+      "userId": 4,
+      "id": 10
+    },
+    {
+      "reviewDes": "This bar is a great bar the food is good but the service is subpar",
+      "barId": 3,
+      "star": 3,
+      "userImageReview": "https://images.getbento.com/accounts/b77554abd7154bb18bab5acd4b078490/media/ifaetZURhyBrtzuTqUag_IMG_6451.jpg?w=1800&fit=max&auto=compress,format&h=1800",
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "reviewDes": "This bar is just ok.",
+      "barId": 1,
+      "star": 2,
+      "userImageReview": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "userId": 5,
+      "id": 14
+    },
+    {
+      "reviewDes": "This is is a meeeh",
+      "barId": 1,
+      "star": 5,
+      "userImageReview": "",
+      "userId": 3,
+      "id": 15
+    },
+    {
+      "reviewDes": "this bar is already ok I heard it from a friend",
+      "barId": 1,
+      "star": 3,
+      "userImageReview": "",
+      "userId": 4,
+      "id": 16
+    },
+    {
+      "reviewDes": "This is a meh bar",
+      "barId": 1,
+      "star": 3,
+      "userImageReview": "",
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "reviewDes": "This bar is not very good.",
+      "barId": 4,
+      "star": 1,
+      "userImageReview": "",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "reviewDes": "This bar is very fancy ",
+      "barId": 3,
+      "star": 5,
+      "userImageReview": "",
+      "userId": 5,
+      "id": 19
+    },
+    {
+      "reviewDes": "This bar is great!",
+      "barId": 2,
+      "star": 5,
+      "userImageReview": "",
+      "userId": 6,
+      "id": 21
+    },
+    {
+      "reviewDes": "This bar is fancy",
+      "barId": 1,
+      "star": 5,
+      "userImageReview": "",
+      "userId": 7,
+      "id": 22
+    },
+    {
+      "reviewDes": "This is a great bar! The food is great and the beer is great as well.",
+      "barId": 2,
+      "star": 5,
+      "userImageReview": "https://fastly.4sqi.net/img/general/600x600/29573387_N0ih5YdpXnWg-bMd_rsPylOKbfbYMfpRpq-G-PRvFG4.jpg",
+      "userId": 7,
+      "id": 23
+    },
+    {
+      "reviewDes": "Definitely one of the best restaurants/bars on 2nd avenue! This location also offers great views. I like coming here vs standing and sweating in line at some of the other bars on Broad. They have it all here...food, live music and DJs. Staff is cool too!",
+      "barId": 5,
+      "star": 5,
+      "userImageReview": "",
+      "userId": 5,
+      "id": 24
+    },
+    {
+      "reviewDes": "Such an amazing spot overlooking the river! Fun DJ and a great outdoor space to dance and enjoy a drink!",
+      "barId": 5,
+      "star": 5,
+      "userImageReview": "https://lh5.googleusercontent.com/p/AF1QipMmb2PzHUbn9xQHUDSC6MR_geHuoyzK-AsSJR9r=w203-h100-k-no-p",
+      "userId": 4,
+      "id": 24
+    }
+  ]
+}
